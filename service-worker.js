@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unict-telegram-channels-by-me/precache-manifest.2b185372ffb347772945cc92b0e50da0.js"
+  "/unict-telegram-channels-by-me/precache-manifest.0b221a8a27cd25ff0509dab68123fb0a.js"
 );
 
 self.addEventListener('message', (event) => {
