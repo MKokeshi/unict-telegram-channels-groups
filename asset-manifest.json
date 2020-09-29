@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/unict-telegram-channels-by-me/static/css/main.ad97efad.chunk.css",
-    "main.js": "/unict-telegram-channels-by-me/static/js/main.a02c0a47.chunk.js",
-    "main.js.map": "/unict-telegram-channels-by-me/static/js/main.a02c0a47.chunk.js.map",
+    "main.css": "/unict-telegram-channels-by-me/static/css/main.cdeee735.chunk.css",
+    "main.js": "/unict-telegram-channels-by-me/static/js/main.eed9f625.chunk.js",
+    "main.js.map": "/unict-telegram-channels-by-me/static/js/main.eed9f625.chunk.js.map",
     "runtime-main.js": "/unict-telegram-channels-by-me/static/js/runtime-main.84d9977a.js",
     "runtime-main.js.map": "/unict-telegram-channels-by-me/static/js/runtime-main.84d9977a.js.map",
-    "static/js/2.923b396f.chunk.js": "/unict-telegram-channels-by-me/static/js/2.923b396f.chunk.js",
-    "static/js/2.923b396f.chunk.js.map": "/unict-telegram-channels-by-me/static/js/2.923b396f.chunk.js.map",
+    "static/js/2.9fddf3ab.chunk.js": "/unict-telegram-channels-by-me/static/js/2.9fddf3ab.chunk.js",
+    "static/js/2.9fddf3ab.chunk.js.map": "/unict-telegram-channels-by-me/static/js/2.9fddf3ab.chunk.js.map",
     "index.html": "/unict-telegram-channels-by-me/index.html",
-    "precache-manifest.0b221a8a27cd25ff0509dab68123fb0a.js": "/unict-telegram-channels-by-me/precache-manifest.0b221a8a27cd25ff0509dab68123fb0a.js",
+    "precache-manifest.9d64a73d4f46a28f84b52b8b17e623c2.js": "/unict-telegram-channels-by-me/precache-manifest.9d64a73d4f46a28f84b52b8b17e623c2.js",
     "service-worker.js": "/unict-telegram-channels-by-me/service-worker.js",
-    "static/css/main.ad97efad.chunk.css.map": "/unict-telegram-channels-by-me/static/css/main.ad97efad.chunk.css.map",
-    "static/js/2.923b396f.chunk.js.LICENSE.txt": "/unict-telegram-channels-by-me/static/js/2.923b396f.chunk.js.LICENSE.txt"
+    "static/css/main.cdeee735.chunk.css.map": "/unict-telegram-channels-by-me/static/css/main.cdeee735.chunk.css.map",
+    "static/js/2.9fddf3ab.chunk.js.LICENSE.txt": "/unict-telegram-channels-by-me/static/js/2.9fddf3ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.84d9977a.js",
-    "static/js/2.923b396f.chunk.js",
-    "static/css/main.ad97efad.chunk.css",
-    "static/js/main.a02c0a47.chunk.js"
+    "static/js/2.9fddf3ab.chunk.js",
+    "static/css/main.cdeee735.chunk.css",
+    "static/js/main.eed9f625.chunk.js"
   ]
 }
