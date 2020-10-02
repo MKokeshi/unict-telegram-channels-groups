@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12389c0d1f84ccc106590b11417dee97",
+    "revision": "6da72e687ef8bc445fa1745d12588b33",
     "url": "/unict-telegram-channels-by-me/index.html"
   },
   {
-    "revision": "d24e9078196255b4606e",
-    "url": "/unict-telegram-channels-by-me/static/css/main.313209e8.chunk.css"
+    "revision": "66385333ab051e271f92",
+    "url": "/unict-telegram-channels-by-me/static/css/main.2a6c1676.chunk.css"
   },
   {
     "revision": "bf7c72aae5aefd2fc351",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/unict-telegram-channels-by-me/static/js/2.e9bcff46.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d24e9078196255b4606e",
-    "url": "/unict-telegram-channels-by-me/static/js/main.dade3500.chunk.js"
+    "revision": "66385333ab051e271f92",
+    "url": "/unict-telegram-channels-by-me/static/js/main.1447d627.chunk.js"
   },
   {
     "revision": "8534c318cf4dd4416db4",

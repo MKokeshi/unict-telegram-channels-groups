@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/unict-telegram-channels-by-me/static/css/main.313209e8.chunk.css",
-    "main.js": "/unict-telegram-channels-by-me/static/js/main.dade3500.chunk.js",
-    "main.js.map": "/unict-telegram-channels-by-me/static/js/main.dade3500.chunk.js.map",
+    "main.css": "/unict-telegram-channels-by-me/static/css/main.2a6c1676.chunk.css",
+    "main.js": "/unict-telegram-channels-by-me/static/js/main.1447d627.chunk.js",
+    "main.js.map": "/unict-telegram-channels-by-me/static/js/main.1447d627.chunk.js.map",
     "runtime-main.js": "/unict-telegram-channels-by-me/static/js/runtime-main.84d9977a.js",
     "runtime-main.js.map": "/unict-telegram-channels-by-me/static/js/runtime-main.84d9977a.js.map",
     "static/js/2.e9bcff46.chunk.js": "/unict-telegram-channels-by-me/static/js/2.e9bcff46.chunk.js",
     "static/js/2.e9bcff46.chunk.js.map": "/unict-telegram-channels-by-me/static/js/2.e9bcff46.chunk.js.map",
     "index.html": "/unict-telegram-channels-by-me/index.html",
-    "precache-manifest.6e4010a893fd50aac3333c97420dc628.js": "/unict-telegram-channels-by-me/precache-manifest.6e4010a893fd50aac3333c97420dc628.js",
+    "precache-manifest.bbed1e9a6e2c78a69c0d0a2a623aa79a.js": "/unict-telegram-channels-by-me/precache-manifest.bbed1e9a6e2c78a69c0d0a2a623aa79a.js",
     "service-worker.js": "/unict-telegram-channels-by-me/service-worker.js",
-    "static/css/main.313209e8.chunk.css.map": "/unict-telegram-channels-by-me/static/css/main.313209e8.chunk.css.map",
+    "static/css/main.2a6c1676.chunk.css.map": "/unict-telegram-channels-by-me/static/css/main.2a6c1676.chunk.css.map",
     "static/js/2.e9bcff46.chunk.js.LICENSE.txt": "/unict-telegram-channels-by-me/static/js/2.e9bcff46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.84d9977a.js",
     "static/js/2.e9bcff46.chunk.js",
-    "static/css/main.313209e8.chunk.css",
-    "static/js/main.dade3500.chunk.js"
+    "static/css/main.2a6c1676.chunk.css",
+    "static/js/main.1447d627.chunk.js"
   ]
 }
